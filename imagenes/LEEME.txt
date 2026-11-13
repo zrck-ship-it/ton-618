@@ -1,0 +1,20 @@
+PROYECTO TON 618 - GUÍA PARA SPCK EDITOR
+
+ARCHIVOS:
+index.html = Inicio
+contenido.html = Contenido principal
+informacion.html = Información adicional
+contacto.html = Formulario de contacto
+estilos.css = Diseño compartido por las cuatro páginas
+script.js = Funcionamiento del formulario
+imagenes/ = Ilustraciones SVG locales
+
+PARA USAR EN SPCK:
+1. Descarga y descomprime TON618_proyecto_Spck.zip.
+2. Abre Spck Editor y crea un proyecto.
+3. Agrega los archivos y conserva la carpeta imagenes.
+4. Abre index.html y pulsa Preview.
+5. Prueba cada enlace del menú y el formulario.
+
+El formulario es de demostración: no guarda ni transmite información.
+Las fuentes de Google requieren conexión; si no cargan, se usan fuentes alternativas.
